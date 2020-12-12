@@ -16,7 +16,7 @@ public class Game : MonoBehaviour
     private GameObject[] playerWhite = new GameObject[16];
 
     private string currentPlayer = "white";
-
+    
     private bool gameOver = false;
 
     void Start()
