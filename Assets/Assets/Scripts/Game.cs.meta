@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8813f7ef5bec6d14eb339c5ddd76d508
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Chesspiece: {instanceID: 0}
+  - WinnerText: {fileID: 6401687194006133783, guid: 390739659ea31864dab574201b98ab8e,
+      type: 3}
+  - RestartText: {fileID: 9129131177148442504, guid: b6da1194c45b70c4580c96a548763d7f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
