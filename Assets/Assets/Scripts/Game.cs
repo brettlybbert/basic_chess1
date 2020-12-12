@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-
+// comment
 public class Game : MonoBehaviour
 {
     public GameObject Chesspiece;
